@@ -4,3 +4,5 @@ FoodSaver is a food waste management system designed to reduce food wastage and 
 - HTML
 - CSS
 - JavaScript
+## live demo
+view in desktop mode: https://hasnakalady.github.io/Food-Saver/
